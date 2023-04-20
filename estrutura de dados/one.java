@@ -36,3 +36,13 @@ public class one {
 
     }
 }
+
+
+
+
+
+
+
+
+//https://www.devmedia.com.br/forum/arraylist-inserir-lista-dentro-de-outra-lista/604451
+//https://blog.algaworks.com/entendendo-o-equals-e-hashcode/
