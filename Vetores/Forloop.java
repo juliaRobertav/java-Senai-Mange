@@ -1,4 +1,4 @@
-public class forloop {
+public class Forloop {
     public static void main(String[] args) {
         int [] numbers = new int[10];   //vetor
         //new Int: novo obj ao vetor
